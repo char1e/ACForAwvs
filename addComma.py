@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 import sys
 """
+Add Comma for Awvs
 Created on Sun Mar 22 10:06:17 2020
+AWVS上传多个目标的时候，要求必须为为csv文件，该脚本将IP输入文件
 去除空行以及行末多余逗号
-for awvs 13
-@author: rabito
+@author: rhaps
 """
 
 import os
